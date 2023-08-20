@@ -176,7 +176,7 @@ header .content {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 400px;
+    margin: 100px 50px;
 }
 
 .action {    
